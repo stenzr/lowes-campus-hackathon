@@ -1,0 +1,17 @@
+#ignore the virtual environment
+venv1
+
+#ignore the vscode folder
+.vscode
+
+#ignore the todo
+todo
+
+database
+csv_to_sql_database.ipynb
+
+#lowes_product_database
+
+__pycache__
+
+.ipynb_checkpoints
