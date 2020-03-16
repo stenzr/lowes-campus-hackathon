@@ -161,6 +161,6 @@ api.add_resource(Get_product_location_detail, '/get_product_details/')
 if __name__ == '__main__':
     #creating a server
     #set debug=False on production
-    #app.run(host='0.0.0.0', debug=False)
-    app.run()
+    app.run(host='0.0.0.0', debug=False)
+
 
