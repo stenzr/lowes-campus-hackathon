@@ -1,21 +1,15 @@
-## lowes-campus-challenge-project
+## store-navigation
 
-### team name: __ROhAR__ 
-#### team members: 1. Rohit Kumar  2. Harsh Agrawal
-
-#### Problem statement attempted: Number 3
-###### statement :
-        `Build a solution to help the` `customers find products in the` `store and help them navigate to the` `corresponding aisle/shelf. If there` `is a shopping list, provide the `best` `shopping trip to complete `the` purchases`
 
 ###### approach :
-        Developed an android application frontend for the user to enter the product name/product list.
+        Developed a RESTful api in Flask-RESTful to provide endpoints for the below 3 frontend tasks for an android application for the user to enter the product name/product list.
         Through which the user can perform the following tasks:
         
         1. Search for the location details of the product.
         2. Provide the list of products to get the respective aisle numbers.
         3. Get an optimal path for the shopping trip for the list of products.
 
-        Developed a RESTful api in Flask-RESTful in backend to provide endpoints for the above 3 frontend tasks.
+        Developed 
 
 ###### database:
         Web scraped the lowes site directory website to get the:
