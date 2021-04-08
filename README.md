@@ -97,9 +97,7 @@
 
 ----
 
-### Building the Android Application
 
-install Android Studio in your system
 
 
 
