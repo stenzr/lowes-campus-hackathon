@@ -42,14 +42,14 @@
 
 ##### open a terminal and type the following
 
-`git clone https://github.com/stenzr/lowes-campus-hackathon.git`
+`git clone https://github.com/stenzr/store-navigation.git`
 
 ###### press enter
 
 
 ##### cd to this project directory
 
-`cd lowes-campus-hackathon`
+`cd store-navigation`
 
 ###### press enter
 
