@@ -19,7 +19,7 @@ marshmallow==3.5.1
 marshmallow-sqlalchemy==0.22.3
 multipledispatch==0.6.0
 networkx==2.4
-numpy==1.18.1
+numpy==1.22.0
 odo==0.5.0
 pandas==1.0.1
 psutil==5.7.0
